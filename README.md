@@ -24,7 +24,7 @@
 		-> Bootstrap
 
 
-👉🏻 I'm currently working in my final course assignment, a donation site to social projects, it's named "HelpHere";
+👉🏻 I'm currently working in my final course assignment, a donation site to social projects, it's named "HelpHere", made with Laravel;
 
 👉🏻 Some of my hobbies are:
 
