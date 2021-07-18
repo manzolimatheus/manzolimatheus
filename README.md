@@ -15,13 +15,13 @@
     > C#
     > Web Development:
 	    ->HTML
-		->CSS
-		->JavaScript
-		->PHP
-		->MySQL
-	> Web development using frameworks:
-		-> Laravel
-		-> Bootstrap
+	    ->CSS
+	    ->JavaScript
+	    ->PHP
+	    ->MySQL
+    > Web development using frameworks:
+	    -> Laravel
+	    -> Bootstrap
 
 
 👉🏻 I'm currently working in my final course assignment, a donation site to social projects, it's named "HelpHere", made with Laravel;
