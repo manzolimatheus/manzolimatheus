@@ -4,7 +4,7 @@
 <div style="display: inline_block">
 <img src="https://avatarfiles.alphacoders.com/953/thumb-1920-95366.gif" width="200px">
 <img src="https://discord-readme-badge.vercel.app/api?id=402574896154148866" height="200px">
-<img src="https://www.icegif.com/wp-content/uploads/studio-ghibli-icegif-7.gif" height="200px">
+<img src="https://www.icegif.com/wp-content/uploads/studio-ghibli-icegif-7.gif" height="200px" width="200px">
 </div>
 
 <div style="display: inline_block">
