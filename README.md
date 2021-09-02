@@ -1,1 +1,1 @@
-<img src="https://github.com/manzolimatheus/manzolimatheus/blob/main/Matheus%20Manzoli.gif">
+<img src="https://github.com/manzolimatheus/manzolimatheus/blob/main/Matheus%20Manzoli.gif" width="100%">
