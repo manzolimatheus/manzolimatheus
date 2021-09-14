@@ -1,4 +1,4 @@
-<img src="https://github.com/manzolimatheus/manzolimatheus/blob/main/destaque.png" width="100%">
+<img src="https://i.imgur.com/v0TZ494.png" width="100%">
 
 
 <div style="display: inline_block">
