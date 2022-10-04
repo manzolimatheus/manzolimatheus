@@ -1,10 +1,5 @@
 <img src="https://i.imgur.com/v0TZ494.png" width="100%">
 
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=manzolimatheus&show_icons=true&theme=tokyonight"> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manzolimatheus&theme=tokyonight&layout=compact">
-</div>
-
 <a href="https://www.behance.net/manzolimatheus">
 <img src="https://img.shields.io/badge/-Behance.net-%230066ff?style=for-the-badge&logo=behance">
 </a>
