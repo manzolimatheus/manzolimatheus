@@ -1,4 +1,4 @@
-<img src="https://i.imgur.com/v0TZ494.png" width="100%">
+<img src="https://github.com/user-attachments/assets/f7a205e4-983e-4079-965f-b1c0c00984d6" width="100%">
 
 <a href="https://www.behance.net/manzolimatheus">
 <img src="https://img.shields.io/badge/-Behance.net-%230066ff?style=for-the-badge&logo=behance">
